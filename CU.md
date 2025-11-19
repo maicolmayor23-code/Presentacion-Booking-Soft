@@ -228,31 +228,6 @@ Recepción y clientes
 
 ### CU-010.1: Consultas Rápidas de Disponibilidad
 
-Descripción:  
-Muestra disponibilidad de habitaciones, reservas y eventos en máximo 5 segundos.
-
-Actor:  
-Cliente del hotel y recepcion
-
-Precondiciones:  
-- Sistema operativo disponible.  
-- Datos de reservas actualizados.
-
-Flujo Principal:  
-1. Cliente consulta disponibilidad online.  
-2. Sistema procesa información.  
-3. Muestra resultados al cliente en tiempo real.
-
-Poscondiciones:  
-- Disponibilidad mostrada correctamente.  
-- Experiencia del usuario optimizada.
-
----
-
-## CU-011: Reporte de Disponibilidad en Línea
-
-### CU-011.1: Consultas Rápidas de Disponibilidad
-
 **Descripción:**  
 Muestra disponibilidad de habitaciones, reservas y eventos en máximo 5 segundos.
 
@@ -274,9 +249,9 @@ Cliente del hotel y recepción
 
 ---
 
-## CU-012: Accesibilidad Multiplataforma
+## CU-011: Accesibilidad Multiplataforma
 
-### CU-012.1: Acceso desde Diferentes Dispositivos y Navegadores
+### CU-011.1: Acceso desde Diferentes Dispositivos y Navegadores
 
 **Descripción:**  
 Permite acceder al portal desde móviles, tabletas, computadoras y navegadores comunes.
@@ -298,9 +273,9 @@ Clientes
 
 ---
 
-## CU-013: Reporte de Servicios Adicionales
+## CU-012: Reporte de Servicios Adicionales
 
-### CU-013.1: Generación de Informes de Uso de Servicios
+### CU-012.1: Generación de Informes de Uso de Servicios
 
 **Descripción:**  
 Genera informes sobre solicitudes de servicios adicionales (restaurante, transporte, etc.) para optimizar recursos.
@@ -322,9 +297,9 @@ Recepción
 
 ---
 
-## CU-014: Reporte de Ocupación de Habitaciones
+## CU-013: Reporte de Ocupación de Habitaciones
 
-### CU-014.1: Generación de Informe de Ocupación
+### CU-013.1: Generación de Informe de Ocupación
 
 **Descripción:**  
 Genera informe sobre estado de habitaciones (disponibles, reservadas o en mantenimiento).
@@ -346,9 +321,9 @@ Recepción
 
 ---
 
-## CU-015: Reporte de Uso de Zonas de Eventos y Oficinas
+## CU-014: Reporte de Uso de Zonas de Eventos y Oficinas
 
-### CU-015.1: Generación de Informe de Uso de Salones
+### CU-014.1: Generación de Informe de Uso de Salones
 
 **Descripción:**  
 Genera informes sobre uso de salones de eventos y oficinas para planificación de eventos.
