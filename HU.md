@@ -7,6 +7,7 @@
 ## **Módulos principales del sistema**
 
 ### **Módulo 1 — Operación del Hotel**
+##### *Todo lo que asegura el funcionamiento interno del hotel.*
 - HU-001  
 - HU-003  
 - HU-007  
@@ -18,6 +19,7 @@
 - HU-008  
 
 ### **Módulo 2 — Reservas, Pagos y Comunicación**
+##### *Procesos con los que el cliente y la recepción interactúan directamente.*
 - HU-002  
 - HU-004  
 - HU-005  
@@ -29,6 +31,7 @@
 - HU-016  
 
 ### **Módulo 3 — Experiencia y Fidelización del Cliente**
+##### *Funcionalidades que elevan la relación cliente–hotel a un nivel personalizado.*
 - HU-011
 
   ---
@@ -182,4 +185,5 @@
 **Como** Recepcionista  
 **Quiero** generar informes sobre el estado de ocupación de las habitaciones (disponibles, reservadas o en mantenimiento), al igual que en los salones de eventos y oficinas  
 **Para** gestionar eficientemente las reservas y el inventario del hotel.
+
 
