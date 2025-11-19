@@ -140,15 +140,15 @@ El objetivo principal de este proyecto es diseñar y desarrollar un sistema inte
 
 - [CU-009 – Check-in y Check-out Digital](CU.md#cu-009-check-in-y-check-out-digital)
 
-- [CU-011 – Reporte de Disponibilidad en Línea](CU.md#cu-011-reporte-de-disponibilidad-en-línea)
+- [CU-010 – Reporte de Disponibilidad en Línea](CU.md#cu-011-reporte-de-disponibilidad-en-línea)
 
-- [CU-012 – Accesibilidad Multiplataforma](CU.md#cu-012-accesibilidad-multiplataforma)
+- [CU-011 – Accesibilidad Multiplataforma](CU.md#cu-012-accesibilidad-multiplataforma)
 
-- [CU-013 – Reporte de Servicios Adicionales](CU.md#cu-013-reporte-de-servicios-adicionales)
+- [CU-012 – Reporte de Servicios Adicionales](CU.md#cu-013-reporte-de-servicios-adicionales)
 
-- [CU-014 – Reporte de Ocupación de Habitaciones](CU.md#cu-014-reporte-de-ocupación-de-habitaciones)
+- [CU-013 – Reporte de Ocupación de Habitaciones](CU.md#cu-014-reporte-de-ocupación-de-habitaciones)
 
-- [CU-015 – Reporte de Uso de Zonas de Eventos y Oficinas](CU.md#cu-015-reporte-de-uso-de-zonas-de-eventos-y-oficinas)
+- [CU-014 – Reporte de Uso de Zonas de Eventos y Oficinas](CU.md#cu-015-reporte-de-uso-de-zonas-de-eventos-y-oficinas)
 
 ---
 
@@ -173,6 +173,7 @@ El objetivo principal de este proyecto es diseñar y desarrollar un sistema inte
 - [RST-09: Modelo de Negocio y Tarifas](RST.md#rst-09-modelo-de-negocio-y-tarifas)
 
 - [RST-010: Registro Histórico](RST.md#rst-010-registro-histórico)
+
 
 
 
