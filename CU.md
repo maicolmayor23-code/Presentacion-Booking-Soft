@@ -224,6 +224,31 @@ Recepción y clientes
 
 ---
 
+## CU-010: Reporte de Disponibilidad en Línea
+
+### CU-010.1: Consultas Rápidas de Disponibilidad
+
+Descripción:  
+Muestra disponibilidad de habitaciones, reservas y eventos en máximo 5 segundos.
+
+Actor:  
+Cliente del hotel y recepcion
+
+Precondiciones:  
+- Sistema operativo disponible.  
+- Datos de reservas actualizados.
+
+Flujo Principal:  
+1. Cliente consulta disponibilidad online.  
+2. Sistema procesa información.  
+3. Muestra resultados al cliente en tiempo real.
+
+Poscondiciones:  
+- Disponibilidad mostrada correctamente.  
+- Experiencia del usuario optimizada.
+
+---
+
 ## CU-011: Reporte de Disponibilidad en Línea
 
 ### CU-011.1: Consultas Rápidas de Disponibilidad
