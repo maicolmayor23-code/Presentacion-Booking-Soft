@@ -98,26 +98,35 @@ El objetivo principal de este proyecto es diseñar y desarrollar un sistema inte
 
 ## **Historias de Usuario**
 
+## 🧩 Módulo 1 — Operación del Hotel
+
 - [### HU-001 – Estado de Habitaciones](HU.md#hu-001)
-- [### HU-002 – Vinculación Financiera](HU.md#hu-002)
 - [### HU-003 – Gestión de Inventario y Alertas](HU.md#hu-003)
+- [### HU-007 – Registro de Incidencias](HU.md#hu-007)
+- [### HU-009 – Registro de Ocupación](HU.md#hu-009)
+- [### HU-010 – Gestión de Servicios del Hotel](HU.md#hu-010)
+- [### HU-013 – Gestión de Apartamentos Amoblados](HU.md#hu-013)
+- [### HU-018 – Informe de Servicios Adicionales](HU.md#hu-018)
+- [### HU-019 – Informe de Ocupación General](HU.md#hu-019)
+- [### HU-008 – Gestión de Contratos](HU.md#hu-008)
+
+
+## 🧩 Módulo 2 — Reservas, Pagos y Comunicación
+
+- [### HU-002 – Vinculación Financiera](HU.md#hu-002)
 - [### HU-004 – Centralización de Canales de Comunicación](HU.md#hu-004)
 - [### HU-005 – Acceso 24/7 del Cliente](HU.md#hu-005)
 - [### HU-006 – Acceso 24/7 del Recepcionista](HU.md#hu-006)
-- [### HU-007 – Registro de Incidencias](HU.md#hu-007)
-- [### HU-008 – Gestión de Contratos](HU.md#hu-008)
-- [### HU-009 – Registro de Ocupación](HU.md#hu-009)
-- [### HU-010 – Gestión de Servicios del Hotel](HU.md#hu-010)
-- [### HU-011 – Clientes Frecuentes](HU.md#hu-011)
-- [### HU-012 – Check-in y Check-out Digital](HU.md#hu-01)
-- [### HU-013 – Gestión de Apartamentos Amoblados](HU.md#hu-013)
-- [### HU-014 – Notificaciones Automáticas](HU.md#hu-014)
+- [### HU-012 – Check-in y Check-out Digital](HU.md#hu-012)
 - [### HU-015 – Soporte por WhatsApp](HU.md#hu-015)
-- [### HU-016 – Consulta de Disponibilidad en Línea](HU.md#hu-016)
 - [### HU-017 – Acceso Multinavegador](HU.md#hu-017)
-- [### HU-018 – Informe de Servicios Adicionales](HU.md#hu-018)
-- [### HU-019 – Informe de Ocupación General](HU.md#hu-019)
+- [### HU-014 – Notificaciones Automáticas](HU.md#hu-014)
+- [### HU-016 – Consulta de Disponibilidad en Línea](HU.md#hu-016)
 
+
+## 🧩 Módulo 3 — Experiencia y Fidelización del Cliente
+
+- [### HU-011 – Clientes Frecuentes](HU.md#hu-011)
 ---
 
 ## **Casos de Uso**
@@ -173,6 +182,7 @@ El objetivo principal de este proyecto es diseñar y desarrollar un sistema inte
 - [RST-09: Modelo de Negocio y Tarifas](RST.md#rst-09-modelo-de-negocio-y-tarifas)
 
 - [RST-010: Registro Histórico](RST.md#rst-010-registro-histórico)
+
 
 
 
