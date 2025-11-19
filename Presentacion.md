@@ -96,9 +96,9 @@ El objetivo principal de este proyecto es diseñar y desarrollar un sistema inte
 
 ---
 
-## **Historias de Usuario**
+# **Historias de Usuario**
 
-## 🧩 Módulo 1 — Operación del Hotel
+##  Módulo 1 — Operación del Hotel
 
 - [### HU-001 – Estado de Habitaciones](HU.md#hu-001)
 - [### HU-003 – Gestión de Inventario y Alertas](HU.md#hu-003)
@@ -111,7 +111,7 @@ El objetivo principal de este proyecto es diseñar y desarrollar un sistema inte
 - [### HU-008 – Gestión de Contratos](HU.md#hu-008)
 
 
-## 🧩 Módulo 2 — Reservas, Pagos y Comunicación
+##  Módulo 2 — Reservas, Pagos y Comunicación
 
 - [### HU-002 – Vinculación Financiera](HU.md#hu-002)
 - [### HU-004 – Centralización de Canales de Comunicación](HU.md#hu-004)
@@ -124,7 +124,7 @@ El objetivo principal de este proyecto es diseñar y desarrollar un sistema inte
 - [### HU-016 – Consulta de Disponibilidad en Línea](HU.md#hu-016)
 
 
-## 🧩 Módulo 3 — Experiencia y Fidelización del Cliente
+##  Módulo 3 — Experiencia y Fidelización del Cliente
 
 - [### HU-011 – Clientes Frecuentes](HU.md#hu-011)
 ---
@@ -182,6 +182,7 @@ El objetivo principal de este proyecto es diseñar y desarrollar un sistema inte
 - [RST-09: Modelo de Negocio y Tarifas](RST.md#rst-09-modelo-de-negocio-y-tarifas)
 
 - [RST-010: Registro Histórico](RST.md#rst-010-registro-histórico)
+
 
 
 
