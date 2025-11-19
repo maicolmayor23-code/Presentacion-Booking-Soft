@@ -168,11 +168,12 @@ El objetivo principal de este proyecto es diseñar y desarrollar un sistema inte
 
 - [RST-007: Tiempo de Respuesta](RST.md#rst-007-tiempo-de-respuesta)
 
-- [RST-008: Accesibilidad Multiplataforma](RST.md#rst-008-accesibilidad-multiplataforma)
+- [RST-08: Generación de Reportes](RST.md#rst-08-generación-de-reportes)
 
-- [RST-009: Canales de Comunicación](RST.md#rst-009-canales-de-comunicación)
+- [RST-09: Modelo de Negocio y Tarifas](RST.md#rst-09-modelo-de-negocio-y-tarifas)
 
-- [RST-010: Generación de Reportes](RST.md#rst-010-generación-de-reportes)
+- [RST-010: Registro Histórico](RST.md#rst-010-registro-histórico)
+
 
 
 
