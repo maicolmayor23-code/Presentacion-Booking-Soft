@@ -174,6 +174,5 @@ El objetivo principal de este proyecto es diseñar y desarrollar un sistema inte
 
 - [RST-010: Generación de Reportes](RST.md#rst-010-generación-de-reportes)
 
-- [RST-011: Modelo de Negocio y Tarifas](RST.md#rst-011-modelo-de-negocio-y-tarifas)
 
-- [RST-012: Registro Histórico](RST.md#rst-012-registro-histórico)
+
