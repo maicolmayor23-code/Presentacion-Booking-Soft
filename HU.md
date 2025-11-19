@@ -4,6 +4,35 @@
 
 ---
 
+## **Módulos principales del sistema**
+
+### **Módulo 1 — Operación del Hotel**
+- HU-001  
+- HU-003  
+- HU-007  
+- HU-009  
+- HU-010  
+- HU-013  
+- HU-018  
+- HU-019  
+- HU-008  
+
+### **Módulo 2 — Reservas, Pagos y Comunicación**
+- HU-002  
+- HU-004  
+- HU-005  
+- HU-006  
+- HU-012  
+- HU-015  
+- HU-017  
+- HU-014  
+- HU-016  
+
+### **Módulo 3 — Experiencia y Fidelización del Cliente**
+- HU-011
+
+  ---
+  
 ### HU-001
 
 **Como** Administrador.  
@@ -153,3 +182,4 @@
 **Como** Recepcionista  
 **Quiero** generar informes sobre el estado de ocupación de las habitaciones (disponibles, reservadas o en mantenimiento), al igual que en los salones de eventos y oficinas  
 **Para** gestionar eficientemente las reservas y el inventario del hotel.
+
